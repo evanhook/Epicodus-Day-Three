@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.about {
+  width: 30%;
+  float: left;
+}
+
+.contact {
+  width: 30%;
+  float: right;
+}
+
+.services {
+  width: 30%;
+  float: right;
+}
