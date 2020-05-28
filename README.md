@@ -1,8 +1,8 @@
-# _Lizzie Van Hook, Christine Augustine [Portland Interior Design]() 05.28.2020_
+# _Elizabeth Van Hook, Christine Augustine [Day Three Project]]() 05.28.2020_
 
 #### Week One | Git, HTML and CSS Box Model Practice
 
-#### By _**Lizzie Van Hook, Christine Augustine**_
+#### By _**Elizabeth Van Hook, Christine Augustine**_
 
 ## Description
 

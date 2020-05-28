@@ -1,18 +1,35 @@
 body {
   text-align: center;
+  margin: 75px;
 }
 
 .about {
-  width: 30%;
-  float: left;
+  border: 2px solid green;
+  margin: 12px;
+  padding: 4px;
 }
 
 .contact {
   width: 30%;
-  float: right;
+  float: left;
+  border: 2px solid green;
+  margin: 12px;
+  padding: 4px;
 }
 
 .services {
   width: 30%;
   float: right;
+  border: 2px solid green;
+  margin: 12px;
+  padding: 4px;
+}
+
+.portlandSkyline {
+  height: auto;
+  width: 366px;
+}
+
+.about h1 {
+color: blue;
 }
