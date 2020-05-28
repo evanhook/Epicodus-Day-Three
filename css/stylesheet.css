@@ -10,12 +10,12 @@ img {
 @media screen and (max-width: 1000px) and (min-width: 700px) {
   body {
     background-color: black;
-    color: white;
+    color: #dce1e8;
   }   
 }
 
 @media screen and (max-width: 480px) {
   body {
-    background-color: teal;
+    background-color: grey;
   }
 }

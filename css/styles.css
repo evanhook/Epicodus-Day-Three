@@ -1,6 +1,7 @@
 body {
   text-align: center;
   margin: 75px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .about {
@@ -30,8 +31,8 @@ body {
   width: 366px;
 }
 
-.about h1 {
-color: blue;
+h1 {
+  font-family: 'Balsamiq Sans', cursive;
 }
 
 @media screen and (min-width: 768px) {
