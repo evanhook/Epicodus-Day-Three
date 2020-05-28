@@ -1,29 +1,13 @@
 body {
-  padding: 40px;
   text-align: center;
-}
-
-.column {
-  float: left;
-  width: 30%;
-  padding: 10px;
-  border: 2 white;
 }
 
 img {
   height: auto;
-  width: 400px;
+  width: 300px;
 }
 
-@media screen and (min-width: 768px) {
-  .column {
-    width: 300px;
-    float: left;
-    padding: 20px;
-  }
-}
-
-@media screen and (max-width: 768px) and (min-width: 600px) {
+@media screen and (max-width: 1000px) and (min-width: 700px) {
   body {
     background-color: black;
     color: white;
