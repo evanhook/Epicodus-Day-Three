@@ -1,4 +1,16 @@
-.column {
-  align-items: center;
+body {
+  padding: 40px;
+  text-align: center;
+}
 
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  border: 2 white;
+}
+
+img {
+  height: auto;
+  width: 400px;
 }
